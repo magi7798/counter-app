@@ -1,0 +1,18 @@
+.counter {
+  text-align: center;
+  
+}
+
+.counter-number {
+  font-size: 60px;
+}
+
+.button {
+  appearance: none;
+  border: 0;
+  background: none;
+}
+
+.material-icons.counter-button{
+  font-size: 80px;
+}
